@@ -6,8 +6,7 @@ node_modules
 .env.test
 
 #DATABASE
-db
-app.db
+db/*.db
 
 #BUILD
 build
